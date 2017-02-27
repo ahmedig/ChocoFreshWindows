@@ -20,7 +20,7 @@ choco install itunes
 
 ## Install Developer Tools
 choco install webdeploy
-choco install sourcetree
-choco install visualstudiocode
 choco install git
 choco install github
+choco install sourcetree
+choco install visualstudiocode
