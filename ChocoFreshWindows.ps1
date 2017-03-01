@@ -17,6 +17,7 @@ choco install paint.net
 choco install chocolateygui
 choco install teamviewer
 choco install itunes
+choco install whatsapp
 
 ## Install Developer Tools
 choco install webdeploy
