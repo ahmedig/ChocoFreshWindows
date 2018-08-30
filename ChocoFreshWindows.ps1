@@ -25,3 +25,5 @@ choco install git -y
 choco install github -y
 choco install sourcetree -y
 choco install visualstudiocode -y
+choco install microsoft-teams -y
+choco install slack -y
