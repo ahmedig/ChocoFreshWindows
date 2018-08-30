@@ -27,3 +27,6 @@ choco install sourcetree -y
 choco install visualstudiocode -y
 choco install microsoft-teams -y
 choco install slack -y
+choco install visualstudio2017professional -y
+choco install resharper -y
+choco install clipx -y
