@@ -15,12 +15,11 @@ choco install notepadplusplus.install -y
 choco install vlc -y
 choco install paint.net -y
 choco install chocolateygui -y
-choco install teamviewer -y
 choco install itunes -y
 choco install whatsapp -y
+choco install sublimetext3 -y
 
 ## Install Developer Tools
-choco install webdeploy -y
 choco install git -y
 choco install github -y
 choco install sourcetree -y
@@ -30,3 +29,8 @@ choco install slack -y
 choco install visualstudio2017professional -y
 choco install resharper -y
 choco install clipx -y
+choco install terraform -y
+choco install azurepowershell -y
+choco install azure-cli -y
+choco install docker -y
+choco install kubernetes-cli -y
